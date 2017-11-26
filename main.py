@@ -303,3 +303,4 @@ with tf.Session() as sess:
             ta += train_accuracy
 
 file.close()
+
